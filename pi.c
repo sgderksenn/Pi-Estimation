@@ -1,10 +1,7 @@
 /* pi.c
    CSC 111 - Fall 2019 - Assignment 2
-
-   B. Bird - 08/13/2019
-   (Put your name/StudentID/date here when you implement your solution)
-
-   Sydney Derksen/V00910431/09/18/2019
+   
+   Sydney Derksen/09/18/2019
 
    This program was designed to approximate the value of pi using the specified formula,
    and can be adjusted to estimate for any value of n
